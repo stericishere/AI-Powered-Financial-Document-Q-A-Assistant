@@ -31,8 +31,9 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 - Install dependencies:
 ```bash
 pip install -r requirements.txt
-Set environment variables:
-bash
+```
+- Set environment variables:
+```
 # Create .env file
 echo "OPENAI_API_KEY=your_openai_api_key_here" > .env
 ```

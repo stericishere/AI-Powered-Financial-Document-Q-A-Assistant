@@ -1,0 +1,27 @@
+# FastAPI and server dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+python-jose[cryptography]==3.3.0
+
+# AI/ML libraries
+llama-index==0.9.24
+llama-index-llms-openai==0.1.7
+langchain==0.1.0
+langchain-openai==0.0.2
+openai==1.6.1
+
+# Document processing
+pypdf2==3.0.1
+pymupdf==1.23.14
+
+# Data processing
+pandas==2.1.4
+numpy==1.24.3
+
+# Async support
+aiofiles==23.2.1
+
+# Logging and utilities
+python-dotenv==1.0.0
+pydantic==2.5.2

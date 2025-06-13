@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+llama-index
+langchain
+openai
+pypdf
+python-dotenv 

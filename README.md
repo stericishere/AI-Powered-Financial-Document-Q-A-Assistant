@@ -1,6 +1,11 @@
 # AI-Powered Financial Document Q&A Assistant
 
 This is a full-stack web application that lets users upload financial documents (in CSV format) and ask questions about them.
+<img width="1099" alt="Screenshot 2025-06-13 at 14 04 09" src="https://github.com/user-attachments/assets/4bc0a663-7513-4cb0-8b2e-9fa3b5d36e93" />
+
+<img width="1039" alt="Screenshot 2025-06-13 at 14 06 54" src="https://github.com/user-attachments/assets/4ec0dbf5-c7a9-42ab-91f1-71469cc953cc" />
+
+
 
 ## Tech Stack
 

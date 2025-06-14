@@ -84,4 +84,3 @@ This is a full-stack application that lets users upload financial documents (in 
 2.  Drag and drop a file into the designated area, or click to select a file.
 3.  Once the file is uploaded and processed, you can ask questions about the document in the input field.
 4.  Press Enter or click the "Ask" button to get a response from the AI.
-5.  The conversation history will be displayed below the input field. 
